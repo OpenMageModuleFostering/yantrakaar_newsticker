@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Yantrakaar_NewsTicker",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "This extension is used to display news ticker on the website. ",
+    "authors": [
+    {
+        "name": "navinkumar singh",
+        "email": "navinkumar.a.singh@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

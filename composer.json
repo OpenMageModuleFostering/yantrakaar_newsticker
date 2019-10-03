@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Yantrakaar_NewsTicker",
+    "name": "openmage-module-fostering\/yantrakaar_newsticker",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension is used to display news ticker on the website. ",
     "authors": [
